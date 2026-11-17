@@ -1,0 +1,8 @@
+*{
+    background-color: yellow;
+    color :blue;
+}
+
+.durif:hover {
+    color: tomato;
+}
